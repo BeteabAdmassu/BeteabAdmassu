@@ -1,6 +1,6 @@
 ### Hi there 👋
  - 👋 Hi, I’m Beteab Admassu
- - 🏛️ 3rd year CS Student, at HiLCoE
+ - 🏛️ 3rd year CS Student, at HiLCoE School of Computer Science and technology
  - 👨🏽 I’m currently Exploring Web Development
  - 👯 I’m looking to collaborate with ...
  - 🥅 2022 Goals: Contribute more to Open Source projects
