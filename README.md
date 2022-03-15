@@ -1,9 +1,9 @@
 ### Hi there 👋
- 👋 Hi, I’m Beteab Admassu
- 🏛️ 3rd year CS Student, at HiLCoE
- 👨🏽 I’m currently Exploring Web Development
- 👯 I’m looking to collaborate with ...
- 🥅 2022 Goals: Contribute more to Open Source projects
+ - 👋 Hi, I’m Beteab Admassu
+ - 🏛️ 3rd year CS Student, at HiLCoE
+ - 👨🏽 I’m currently Exploring Web Development
+ - 👯 I’m looking to collaborate with ...
+ - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <!--
 **BeteabAdmassu/BeteabAdmassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
