@@ -25,25 +25,22 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" />
 
 <img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<img align="left" alt="tailwind" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" />
+<img align="left" alt="material-ui" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/material-ui.svg" />
 
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" />
 
 <img align="left" alt="Node.jd" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Asp.net" width="26px" src="https://user-images.githubusercontent.com/32792371/113138272-3fb66100-922e-11eb-8523-8c89181abd74.png" />
+<img align="left" alt="Asp.net" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/dotnet.svg" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
