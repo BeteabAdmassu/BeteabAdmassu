@@ -1,20 +1,17 @@
-### Hi there, I'm Beteab 👋
 
-### Connect with me:
+#### I'm Beteab
 
+# My skills
 
-<a href="https://www.linkedin.com/in/beteab-admassu-469436258/">
-  <img width="32" align="left"
-     alt="My Linkedin profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
+### Front-End
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,styledcomponents,figma,vue,nuxtjs,html,css,materialui)](https://skillicons.dev)
 
-<br />
- 
-<br />
-<br />
+### Back-End
 
----
+[![My Skills](https://skillicons.dev/icons?i=go,graphql,postgres,mongodb,express)](https://skillicons.dev)
 
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws)](https://skillicons.dev)
 
