@@ -9,7 +9,7 @@
 
 ### Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=go,graphql,postgres,mongodb,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,graphql,postgres,mongodb,express,dotnet)](https://skillicons.dev)
 
 ### DevOps
 
