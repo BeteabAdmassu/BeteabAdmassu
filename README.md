@@ -5,7 +5,7 @@
 
 ### Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,styledcomponents,figma,vue,nuxtjs,html,css,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,figma,vue,nuxtjs,html,css,materialui)](https://skillicons.dev)
 
 ### Back-End
 
